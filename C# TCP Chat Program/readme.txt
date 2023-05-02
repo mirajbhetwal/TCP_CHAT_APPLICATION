@@ -20,4 +20,4 @@ The server creates an asynchronous task(thread) to keep listening for joining cl
 
 You will need to work through the code to work out where and how to add to it.
 
-The Tic-Tac-Toe board is for the final assignment and only works for Cross player but detects wins and resets the board.
+ (note: not for now The Tic-Tac-Toe board is for the final assignment and only works for Cross player but detects wins and resets the board.)
