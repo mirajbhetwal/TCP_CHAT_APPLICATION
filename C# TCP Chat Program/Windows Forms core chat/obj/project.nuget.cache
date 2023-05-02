@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "S+Dr1zIg4IE1Q1H49XcyulW66MLOR6HXGn0A+7Zhy+dr7nXNtStCGwB8l+dKibbd5oCP+8P+XYbpbDprErmGbw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\miraj\\Desktop\\C# TCP Chat Program\\Windows Forms core chat\\Windows Forms core chat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\miraj\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\miraj\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\miraj\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\miraj\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
